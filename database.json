@@ -1,0 +1,210 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "girish",
+      "password": "girish123",
+      "email": "khotgirish15@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "password123",
+      "email": "user2@example.com"
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "password": "password123",
+      "email": "user3@example.com"
+    },
+    {
+      "id": 4,
+      "username": "user4",
+      "password": "password123",
+      "email": "user4@example.com"
+    },
+    {
+      "id": 5,
+      "username": "user5",
+      "password": "password123",
+      "email": "user5@example.com"
+    },
+    {
+      "id": 6,
+      "username": "user6",
+      "password": "password123",
+      "email": "user6@example.com"
+    },
+    {
+      "id": 7,
+      "username": "user7",
+      "password": "password123",
+      "email": "user7@example.com"
+    },
+    {
+      "id": 8,
+      "username": "user8",
+      "password": "password123",
+      "email": "user8@example.com"
+    },
+    {
+      "id": 9,
+      "username": "user9",
+      "password": "password123",
+      "email": "user9@example.com"
+    },
+    {
+      "id": 10,
+      "username": "user10",
+      "password": "password123",
+      "email": "user10@example.com"
+    }
+  ],
+  "portfolios": {
+    "1": {
+      "portfolio": [
+        {
+          "coinName": "Polkadot",
+          "ticker": "DOT",
+          "buyPrice": 25,
+          "quantity": 50,
+          "livePrice": 4.28624068940214,
+          "currentValue": 214.312034470107,
+          "profitLoss": -1035.6879655298928
+        },
+        {
+          "coinName": "Cardano",
+          "ticker": "ADA",
+          "buyPrice": 0.5,
+          "quantity": 1000,
+          "livePrice": 0.8562278559840126,
+          "currentValue": 856.2278559840126,
+          "profitLoss": 356.22785598401265
+        },
+        {
+          "coinName": "Chainlink",
+          "ticker": "LINK",
+          "buyPrice": 15,
+          "quantity": 100,
+          "livePrice": 22.230457295281244,
+          "currentValue": 2223.0457295281244,
+          "profitLoss": 723.0457295281244
+        },
+        {
+          "coinName": "Ethereum",
+          "ticker": "ETH",
+          "buyPrice": 2714.285714285714,
+          "quantity": 3.5,
+          "livePrice": 4510.208820042929,
+          "currentValue": 15785.730870150252,
+          "profitLoss": 6285.730870150252
+        },
+        {
+          "coinName": "Solana",
+          "ticker": "SOL",
+          "buyPrice": 293.5483870967742,
+          "quantity": 310,
+          "livePrice": 230.08744429123993,
+          "currentValue": 71327.10773028438,
+          "profitLoss": -19672.892269715623
+        },
+        {
+          "coinName": "Bitcoin",
+          "ticker": "BTC",
+          "buyPrice": 46875,
+          "quantity": 0.8,
+          "livePrice": 122478.87240628593,
+          "currentValue": 97983.09792502875,
+          "profitLoss": 60483.09792502874
+        }
+      ],
+      "alerts": [
+        {
+          "id": 1759557540136,
+          "ticker": "SOL",
+          "coinName": "Solana",
+          "targetPrice": 360,
+          "multiplier": 3.6,
+          "email": "khotgirish15@gmail.com",
+          "triggered": false,
+          "createdAt": "2025-10-04T05:59:00.136Z"
+        },
+        {
+          "id": 1759557648898,
+          "ticker": "ADA",
+          "coinName": "Cardano",
+          "targetPrice": 0.5,
+          "multiplier": 1,
+          "email": "khotgirish15@gmail.com",
+          "triggered": false,
+          "createdAt": "2025-10-04T06:00:48.898Z"
+        },
+        {
+          "id": 1759557648899,
+          "ticker": "LINK",
+          "coinName": "Chainlink",
+          "targetPrice": 15,
+          "multiplier": 1,
+          "email": "khotgirish15@gmail.com",
+          "triggered": false,
+          "createdAt": "2025-10-04T06:00:48.898Z"
+        },
+        {
+          "id": 1759557648900,
+          "ticker": "ETH",
+          "coinName": "Ethereum",
+          "targetPrice": 1000,
+          "multiplier": 1,
+          "email": "khotgirish15@gmail.com",
+          "triggered": false,
+          "createdAt": "2025-10-04T06:00:48.898Z"
+        },
+        {
+          "id": 1759557648901,
+          "ticker": "SOL",
+          "coinName": "Solana",
+          "targetPrice": 100,
+          "multiplier": 1,
+          "email": "khotgirish15@gmail.com",
+          "triggered": false,
+          "createdAt": "2025-10-04T06:00:48.898Z"
+        },
+        {
+          "id": 1759557880082,
+          "ticker": "SOL",
+          "coinName": "Solana",
+          "targetPrice": 231,
+          "multiplier": 2.31,
+          "email": "khotgirish15@gmail.com",
+          "triggered": false,
+          "createdAt": "2025-10-04T06:04:40.082Z"
+        },
+        {
+          "id": 1759557888419,
+          "ticker": "SOL",
+          "coinName": "Solana",
+          "targetPrice": 239,
+          "multiplier": 2.39,
+          "email": "khotgirish15@gmail.com",
+          "triggered": false,
+          "createdAt": "2025-10-04T06:04:48.419Z"
+        }
+      ]
+    },
+    "2": {
+      "portfolio": [
+        {
+          "coinName": "Solana",
+          "ticker": "SOL",
+          "buyPrice": 100,
+          "quantity": 100,
+          "livePrice": 229.7061287994276,
+          "currentValue": 22970.61287994276,
+          "profitLoss": 12970.61287994276
+        }
+      ],
+      "alerts": []
+    }
+  }
+}

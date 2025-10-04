@@ -1,0 +1,9 @@
+Coin Name,Ticker,Buy Price,Quantity
+Bitcoin,BTC,45000,0.5
+Ethereum,ETH,2500,2
+Cardano,ADA,0.5,1000
+Solana,SOL,100,10
+Bitcoin,BTC,50000,0.3
+Ethereum,ETH,3000,1.5
+Polkadot,DOT,25,50
+Chainlink,LINK,15,100
