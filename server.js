@@ -22,8 +22,8 @@ const DB_FILE = path.join(__dirname, 'database.json');
 // Initialize database
 let database = {
     users: [
-        { id: 1, username: 'girish', password: 'girish123', email: 'khotgirish15@gmail.com' },
-        { id: 2, username: 'user2', password: 'password123', email: 'user2@example.com' },
+        { id: 1, username: 'girishkhot', password: 'girish@123', email: 'khotgirish15@gmail.com' },
+        { id: 2, username: 'mayuresh', password: 'mayuresh@123', email: 'mayureshkhot15@gmail.com' },
         { id: 3, username: 'user3', password: 'password123', email: 'user3@example.com' },
         { id: 4, username: 'user4', password: 'password123', email: 'user4@example.com' },
         { id: 5, username: 'user5', password: 'password123', email: 'user5@example.com' },
